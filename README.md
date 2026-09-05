@@ -12,11 +12,11 @@ https://free-nextjs-admin-dashboard-main-mu.vercel.app/
 
 ### Fleet Dashboard
 
-![FlowTrack Fleet Dashboard](Zrzut ekranu 2026-09-05 103027)
+![FlowTrack Fleet Dashboard](Zrzut%20ekranu%202026-09-05%20103027.png)
 
 ### Trailer Planner
 
-![FlowTrack Trailer Planner](Zrzut ekranu 2026-09-05 103107)
+![FlowTrack Trailer Planner](Zrzut%20ekranu%202026-09-05%20103107.png)
 
 ## Features
 
