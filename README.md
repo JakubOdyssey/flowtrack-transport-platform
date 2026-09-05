@@ -8,6 +8,16 @@ It combines live vehicle tracking, load planning, maintenance monitoring, operat
 
 https://free-nextjs-admin-dashboard-main-mu.vercel.app/
 
+## Screenshots
+
+### Fleet Dashboard
+
+![FlowTrack Fleet Dashboard](Zrzut ekranu 2026-09-05 103027)
+
+### Trailer Planner
+
+![FlowTrack Trailer Planner](Zrzut ekranu 2026-09-05 103107)
+
 ## Features
 
 - Live fleet map with vehicle locations and route visibility
